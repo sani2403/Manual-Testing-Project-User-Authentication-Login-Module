@@ -74,7 +74,5 @@ Module: User Authentication (Login)
 
 ---
 
-## ✅ Conclusion
-This project demonstrates a clear understanding of **manual testing fundamentals**, test documentation, and quality assurance workflows.  
-It reflects readiness for **Software Tester / QA Trainee** roles.
+
 
